@@ -1,5 +1,9 @@
 # watchy
 
+## Fork Notice
+
+This a fork aimed for V3 of Watchy, which was recently released this past summer. All credit goes to the orginal repo, which can be found [here](https://github.com/kyp44/watchy). Everything after this notice for now was written by the orginal author. 
+
 Board support crate for the [Watchy](https://watchy.sqfmi.com/) programmable smartwatch.
 
 This is still a work in progress.
